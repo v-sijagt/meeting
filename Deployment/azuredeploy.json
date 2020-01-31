@@ -375,7 +375,7 @@
           "appSettings": [
             {
               "name": "PROJECT",
-              "value": "Source/FunctionApp/Microsoft.Teams.App.BookaThing.Function.csproj"
+              "value": "Source/Microsoft.Teams.App.BookAThing.SyncService/Microsoft.Teams.App.BookAThing.SyncService.csproj"
             },
 			{
               "name": "WEBJOBS_IDLE_TIMEOUT",
