@@ -379,7 +379,7 @@
             },
 			{
               "name": "WEBJOBS_IDLE_TIMEOUT",
-              "value": "300"
+              "value": "1000"
             },
             {
               "name": "StorageConnectionString",
