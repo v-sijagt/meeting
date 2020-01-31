@@ -377,6 +377,10 @@
               "name": "PROJECT",
               "value": "Source/FunctionApp/Microsoft.Teams.App.BookaThing.Function.csproj"
             },
+			{
+              "name": "WEBJOBS_IDLE_TIMEOUT",
+              "value": "300"
+            },
             {
               "name": "StorageConnectionString",
               "value": "[concat('DefaultEndpointsProtocol=https;AccountName=', variables('storageAccountName'), ';AccountKey=', listKeys(resourceId('Microsoft.Storage/storageAccounts', variables('storageAccountName')),'2015-05-01-preview').key1)]"
